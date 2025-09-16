@@ -1,0 +1,28 @@
+
+
+.container{
+  width:300px;
+  border-width: 1px;
+  border-style: double;
+  border-color: red;
+  padding: .5em;
+  background-color: beige;
+  display: flex;
+}
+
+.p{
+ font-style: italic;
+ 
+}
+
+.li{
+  list-style: none;
+}
+
+.box
+{
+  border-color: red;
+  border-width: 1px;
+  border-style: dotted;
+  padding: .2em;
+}
